@@ -90,5 +90,5 @@ Key references included in the bibliography:
 
 ## ✨ Author
 
-- **Khalil Braham** (RetSci, France)  
+- **Khalil Braham** (France)  
   📧 khalilbrahem.kb@gmail.com
